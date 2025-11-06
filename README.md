@@ -27,8 +27,7 @@ Built with **Retrieval-Augmented Generation (RAG)** architecture, the system ret
 |-----------|---------------|
 | 💻 Programming | Python, LangChain, Streamlit |
 | 🧠 AI & NLP | Google Generative AI, Sentence Transformers, FAISS |
-| ☁️ Cloud & Data | Google Cloud Vertex AI, Pandas, Datasets Library |
-| 📦 Vector Storage | FAISS (Facebook AI Similarity Search) |
+| 📦 Vector Storage | FAISS |
 | 🧩 Integration | RAG Architecture, LLM Prompt Templates |
 
 ---
@@ -56,15 +55,14 @@ The dataset used for training and retrieval is a **global English-language medic
 
 ---
 
-## 🖥️ Project Demo  
+## 🖥️ Live Demo  
+
+**Try it here:**  
+👉 [https://medinsight-rag.streamlit.app](https://medinsight-rag.streamlit.app)
 
 <p align="center">
-  <img src="https://github.com/berkay-shn/Medinsight-RAG-Chatbot/assets/demo_screenshot.png" width="700" alt="App Demo">
+  <img src="https://github.com/berkay-shn/Medinsight-RAG-Chatbot/assets/demo.gif" width="700" alt="MedInsight Chatbot Demo">
 </p>
-
-*(You can replace the image path with your own screenshot — e.g., `assets/demo.png`)*
-
----
 
 ## 🧩 Setup Instructions  
 
