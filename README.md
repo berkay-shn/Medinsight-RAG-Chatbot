@@ -46,7 +46,7 @@ The dataset used for training and retrieval is a **global English-language medic
 
 ---
 
-## 🧠 How It Works  
+## How It Works  
 
 1. **User Query** → A health-related question (e.g., *“What are the symptoms of iron deficiency?”*)  
 2. **Retriever** → Searches similar text chunks from FAISS vector DB  
